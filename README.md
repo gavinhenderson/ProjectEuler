@@ -5,3 +5,4 @@ This repo contains my solutions to the Project Euler problems. These solutions w
 ## Challenges
 
 - [Multiples of 3 or 5](/multiples-of-3-or-5)
+- [Even Fibonacci Numbers](/even-fibonacci-numbers)
