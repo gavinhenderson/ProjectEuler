@@ -11,3 +11,4 @@ This repo contains my solutions to the Project Euler problems. These solutions w
 - [Smallest Multiples](/smallest-multiple)
 - [Largest Palindrome Product](/largest-palindrome-product)
 - [10001st prime](/10001st-prime)
+- [Special Pythagorean triplet](/special-pythagorean-triplet)
