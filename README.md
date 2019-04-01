@@ -8,3 +8,4 @@ This repo contains my solutions to the Project Euler problems. These solutions w
 - [Even Fibonacci Numbers](/even-fibonacci-numbers)
 - [Largest Prime Factor](/largest-prime-factor)
 - [Sum Square Difference](/sum-square-difference)
+- [Smallest Multiples](/smallest-multiple)
