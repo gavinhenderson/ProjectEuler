@@ -12,3 +12,4 @@ This repo contains my solutions to the Project Euler problems. These solutions w
 - [Largest Palindrome Product](/largest-palindrome-product)
 - [10001st prime](/10001st-prime)
 - [Special Pythagorean triplet](/special-pythagorean-triplet)
+- [Largest product in a series](/largest-product-in-a-series)
